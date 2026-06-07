@@ -1,0 +1,6 @@
+{
+  "name": "Skincare Expert Chatbot",
+  "description": "An elegant, interactive skincare consultation chatbot that guides users through skin typing, concern analysis, routine reviews, and ingredient exclusions to formulate personalized skincare recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
